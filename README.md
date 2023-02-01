@@ -25,7 +25,6 @@ waybar jetbains-fleet Alacritty
 ``` bash
 yay -S xorg-xwayland
 ```
-xorg-xwayland
 
 ## Env variables needed
 
