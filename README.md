@@ -16,8 +16,8 @@ makepkg -si
 ## Packages
 
 ``` bash
-yay -S swaybg swaync polkit alacritty wofi xorg-xwayland sddm-git neofetch thunar \
-waybar jetbains-fleet Alacritty
+yay -S swaybg swaync wl-clipboard polkit alacritty wofi sddm-git neofetch thunar \
+waybar jetbains-fleet alacritty
 ```
 
 ### Optional
