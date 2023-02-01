@@ -40,6 +40,13 @@ export WLR_NO_HARDWARE_CURSORS=1
 export WLR_RENDERER_ALLOW_SOFTWARE=1
 ```
 
+## Commands needed
+
+### Activate SDDM
+``` bash
+sudo systemctl enable sddm
+```
+
 ## Gotchas
 
 - 3D Acceleration needs to be enabled for VMware to work with wayland
