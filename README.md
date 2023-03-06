@@ -22,7 +22,7 @@ waybar jetbains-fleet alacritty
 
 ### Optional
 
-## xorg-xwayland needed for x11 only apps to work
+### xorg-xwayland needed for x11 only apps to work
 
 ``` bash
 yay -S xorg-xwayland
