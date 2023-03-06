@@ -54,5 +54,3 @@ sudo systemctl enable sddm
 ## Docs needed
 
 - https://wiki.archlinux.org/title/SDDM
-
-## Sources used making these
